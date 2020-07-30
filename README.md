@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/tthebst/tthebst/blob/master/btcup.gif" />
+  <img src="https://github.com/tthebst/tthebst/blob/master/rockert.gif" />
 </p>
